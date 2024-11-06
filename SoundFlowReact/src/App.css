@@ -1,0 +1,67 @@
+body{
+     background-color:#2B215C;
+     background-image: linear-gradient(to left, rgba(255, 255, 255, 0.63), #2B215C);
+     padding-top:1.5%;
+     font-size:1.7rem;
+}
+.aNavLink{
+    color:white;
+    padding-right:4rem;
+}
+Navbar{
+    margin-bottom:30%;
+}
+
+.MyColor{
+   background-color:#010101;
+}
+.containerLanding{
+    margin-top:5%;
+    color:white;
+    display:inline;
+    padding-left:15%;
+}
+.child{
+    display:inline-block;
+}
+
+.landingImage{
+    width:90%;
+    margin-left:20%;
+}
+h2{
+    font-size:40px;
+}
+h1{
+    font-size:70px;
+    font-style: italic;
+}
+h3{
+     font-size:25px;
+}
+.textHolder{
+    padding-top:5%;
+}
+
+.playlistContainer{
+    margin-top:5%;
+}
+#centered{
+    text-align:center;
+    color:#ffffff;
+    padding-bottom:2%;
+}
+.cardPlaylist{
+     text-align:center;
+     background-color:#010101;
+     width:400px;
+     margin-right:2%;
+     color:white;
+     font-size:3rem;
+}
+.editPlaylistButton{
+    margin-bottom:2%;
+    width:45%;
+    margin-right:3%;
+    text-align:center;
+}
